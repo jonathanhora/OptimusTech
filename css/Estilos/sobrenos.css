@@ -1,0 +1,38 @@
+.sobreNos{
+    display: flex;
+    margin-top: 96px;
+    padding: 0 7em;
+    justify-content:space-evenly;
+}
+
+.sobreNos__descricao{
+    text-align: center;
+    align-self: center;
+}
+
+.sobreNos__texto__generico{
+    font-weight: 600;
+    color: var(--vinho);
+    font-size: 22px;
+}
+
+.sobreNos__titulo{
+    font-size: 50px;
+    font-weight: 600;
+    color: var(--cinza--escuro);
+    margin-top: 24px;
+    margin-bottom: 36px;
+}
+
+.sobreNos__texto{
+    font-size: 22px;
+    color: var(--cinza--claro);
+    width: 900px;
+}
+
+.sobreNos__imagem__conteudo{
+    width: 800px;
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.589) 0px 3px 8px;
+    align-self: center;
+}
