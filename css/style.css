@@ -1,6 +1,8 @@
 
 @import url("Estilos/header.css");
 @import url("Estilos/sobrenos.css");
+@import url("Estilos/dados.css");
+@import url("Estilos/vagas.css");
 
 :root{
     --branco: #FFFFFF;

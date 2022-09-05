@@ -1,0 +1,63 @@
+.vagasAbertas{
+    padding: 100px 112px 96px 112px;
+    text-align: center;
+}
+
+.vagasAbertas__textogenerico{
+    font-weight: 600;
+    color: var(--vinho);
+    font-size: 22px;
+}
+
+.vagasAbertas__titulo{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza--escuro);
+    margin: 20px 0; 
+}
+
+.vagasAbertas__texto{
+    font-size: 20px;
+    color: var(--cinza--claro);
+    margin-bottom: 64px;
+}
+
+.campo__vagas{
+    width: 768px;
+    margin: auto;
+}
+
+.vagas_por_categoria{
+    margin-bottom: 64px;
+}
+
+.vaga__categoria{
+    font-size: 25px;
+    font-weight: 500;
+    color: var(--cinza--escuro);
+    margin-bottom: 32px;
+}
+
+.vaga{
+    padding: 24px 24px 28px 24px;
+}
+
+.vaga_descricao{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza--escuro);
+    margin-bottom: 32px;
+}
+
+.vaga_dados{
+    display: flex;
+}
+
+.período{
+    margin-right: 24px;
+}
+
+.período , .salario{
+    font-weight: 500;
+    color: var(--cinza--claro);
+}

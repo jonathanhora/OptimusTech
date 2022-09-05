@@ -1,8 +1,9 @@
 .sobreNos{
     display: flex;
-    margin-top: 96px;
     padding: 0 7em;
     justify-content:space-evenly;
+    padding-top: 96px;
+    padding-bottom: 107px;
 }
 
 .sobreNos__descricao{
@@ -28,11 +29,4 @@
     font-size: 22px;
     color: var(--cinza--claro);
     width: 900px;
-}
-
-.sobreNos__imagem__conteudo{
-    width: 800px;
-    border-radius: 25px;
-    box-shadow: rgba(0, 0, 0, 0.589) 0px 3px 8px;
-    align-self: center;
 }
