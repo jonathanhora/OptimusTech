@@ -3,6 +3,7 @@
 @import url("Estilos/sobrenos.css");
 @import url("Estilos/dados.css");
 @import url("Estilos/vagas.css");
+@import url("Estilos/colaboradores.css");
 
 :root{
     --branco: #FFFFFF;

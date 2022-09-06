@@ -1,0 +1,34 @@
+.colaboradores{
+    padding: 64px 450px;
+    text-align: center;
+}
+
+.colboradores__texto__generico{
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.colaboradores__titulo{
+    font-size: 36px;
+    font-weight: 500;
+    color: var(--cinza--escuro);
+    margin-top: 16px;
+    margin-bottom: 32px;
+    display: flex;
+    text-align: center;
+    margin: 16 auto 32 auto;
+}
+
+.colaborador__nome{
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza--escuro);
+    margin-top: 16px;
+    margin-bottom: 4px;
+}
+
+.colaborador_cargo{
+    font-size: 16px;
+    color: var(--cinza--claro);
+}
