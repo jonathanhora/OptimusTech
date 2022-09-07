@@ -4,6 +4,7 @@
 @import url("Estilos/dados.css");
 @import url("Estilos/vagas.css");
 @import url("Estilos/colaboradores.css");
+@import url("Estilos/rodape.css");
 
 :root{
     --branco: #FFFFFF;
@@ -11,6 +12,7 @@
     --preto: ;
     --cinza--claro: #667085;
     --cinza--escuro: #101828;
+    --cinza--rodape: #98A2B3;
     --vinho: #8E2424
 }
 
